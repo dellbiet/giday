@@ -35,20 +35,6 @@ int main()
     {
         system("C:/BOT/PopPop.wav");
     }
-    //while(true)
-    //{
-     //   if(amnhac==1)
-     //   {
-     //       PlaySound(TEXT("C:\\BOT\\PopPop.wav"), NULL,SND_FILENAME);
-     //   }
-      //  else
-      //  {
-      //      if(amnhac==2)
-       //     {
-      //         break;
-       //     }
-      //  }
-    //}
     cin>>n;
     cout<<"Nhap so ban thich :"<<"\n";
     cout<<"Loading in:"<<"\n";
